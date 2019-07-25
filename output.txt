@@ -1,0 +1,2594 @@
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+2C49315734F33564507ABCE3F95562F9A8605C11  Valid                                  axlbridge.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\ca\components\Help\Tutorial
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              tutorials.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\ca
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Dmonnt.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\components\Help\Tutorial\movies
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              61-ccp-o1.exe
+                                          NotSigned                              61-ipp-o1.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\components\Help\Tutorial
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  tutorials.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\components\qbagentdb
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              qbdassist.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\components\qbagentndb
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              qbdassist.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              convertible.exe
+AB18CB55D01F630510117B42713A26854AFCA985  HashMismatch                           convertible_atinstall.exe
+AB18CB55D01F630510117B42713A26854AFCA985  HashMismatch                           convertible_bel.exe
+AB18CB55D01F630510117B42713A26854AFCA985  HashMismatch                           convertible_noAE.exe
+AB18CB55D01F630510117B42713A26854AFCA985  HashMismatch                           convertible_std.exe
+                                          UnknownError                           prddesvr.exe
+                                          UnknownError                           qbpatch.exe
+                                          UnknownError                           qorder.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\trial\TrlBel
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              launch.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Bin\QBExe\uk\components\Help\Tutorial
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              tutorials.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\ConnectTool
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ConnectTool.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FAM
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  QBfam12.exe
+AB18CB55D01F630510117B42713A26854AFCA985  Valid                                  QBfam13.exe
+949255EFE5F0589DA3D66585377BF416ECA673D9  Valid                                  QBfam14.exe
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  QBfam15.exe
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  QBfam16.exe
+78560DCC21AC4FAC2941F511E81E5EE7ADC8BCF0  Valid                                  QBfam17.exe
+B70394362975E0276BABBA73AC8C8345F9246DFE  Valid                                  QBfam18.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD\CA\Patcher
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FSRPatcher.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD\CA
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  qbfsd.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD\Patcher
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FSRPatcher.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  qbfsd.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD\UK\Patcher
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FSRPatcher.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\FSD\UK
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  qbfsd.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\MRUServerChecker
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  QBMRUConfig.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\Intuit\QBTimer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+7AA929B8E947099EB0C504FBB9813B4BE647E3A2  Valid                                  setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\ABS
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+9E7D165ECBE981F3A7E00E56E56C86135EB2A4A1  Valid                                  ABSPDF459Setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\Amyuni
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Install.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\BusinessPlanner\Application
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+E44C0A4BB4E3B9F66D53B4324359C83793BCE029  Valid                                  Business Planner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\BusinessPlanner\GraphicsServer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+5D5BC97C9145303DCE5E509EA2AB8E7CF17FF78F  Valid                                  Gsw32.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CEFSharp\CefSharp.Common.51.0.0\
+    CefSharp\x64
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CefSharp.BrowserSubprocess.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CEFSharp\CefSharp.Common.51.0.0\
+    CefSharp\x86
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CefSharp.BrowserSubprocess.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CEFSharp\CefSharp.Common.57.0.0\
+    CefSharp\x64
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CefSharp.BrowserSubprocess.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CEFSharp\CefSharp.Common.57.0.0\
+    CefSharp\x86
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CefSharp.BrowserSubprocess.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CodeJock\Xtreme_Skin_Framework\Utils
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D4F86562CF811B62F99565D5B08A226B039AAF72  Valid                                  Grep.exe
+D4F86562CF811B62F99565D5B08A226B039AAF72  Valid                                  ResourceEditor.exe
+D4F86562CF811B62F99565D5B08A226B039AAF72  Valid                                  SkinBuilder.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\CodeJock\Xtreme_Skin_Framework\W
+    orkspace\Resource\XMLResource
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              XMLResource.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\gmock-1.7.0\msvc\2010\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              gmock_test.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MacromediaFlashPlayer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+FDF01DD3F37C66AC4C779D92623C77814A07FE4C  Valid                                  install_flashplayer11x32ax_gtba_aih...
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\Microsoft\MSOffice
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1  Valid                                  vstor.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\Microsoft\MSOffice\vstor20
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1  Valid                                  install.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\Microsoft\MSOffice
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1  Valid                                  vstor30.exe
+D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1  Valid                                  vstor30sp1-KB949258-x86.exe
+9617094A1CFB59AE7C1F7DFDB6739E4E7C40508F  Valid                                  vstor40_x64.exe
+9617094A1CFB59AE7C1F7DFDB6739E4E7C40508F  Valid                                  vstor40_x86.exe
+564E01066387F26C912010D06BD78D3CF1E845AB  Valid                                  WindowsXP-KB915865-v11-x86-ENU.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\Microsoft
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              netfx_setupverifier.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MicrosoftRunTime\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              vcredist_x86.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MicrosoftRunTime\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D57FAC60F1A8D34877AEB350E83F46F6EFC9E5F1  Valid                                  vcredist_x86.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MSDotNETFramework\DotNET40
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+9617094A1CFB59AE7C1F7DFDB6739E4E7C40508F  Valid                                  dotNetFx40_Full_x86_x64.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MSDotNETFramework\DotNET46
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3BDA323E552DB1FDE5F4FBEE75D6D5B2B187EEDC  Valid                                  NDP462-KB3151800-x86-x64-AllOS-ENU.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\MSDotNETFramework\DotNET47
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+98ED99A67886D020C564923B7DF25E9AC019DF26  Valid                                  NDP47-KB3186497-x86-x64-AllOS-ENU.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\RemoteAssist\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              RemoteAssist.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\ToolHouse\SimpleStart\QBReminder
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_getstarted.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_quicktour.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_tutorial.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice1.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice2.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice3.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  QBReminder.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  start.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\ToolHouse\SimpleStart\QBReminderHP
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_getstarted.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_quicktour.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  base_tutorial.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice1.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice2.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  entice3.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  QBReminder.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  start.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\WebMailAuth2.0-POCs\Outlook\OAut
+    hOutlookDesktopApp\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OAuthOutlookDesktopApp.exe
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  OAuthOutlookDesktopApp.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Deployment\ThirdParty\WebMailAuth2.0-POCs\Outlook\OAut
+    hOutlookDesktopApp\obj\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OAuthOutlookDesktopApp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Environment\Boost\tools\console_test_runner\msvc-11.0\
+    debug\threading-multi
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              console_test_runner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Environment\Boost\tools\console_test_runner\msvc-11.0\
+    release\threading-multi
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              console_test_runner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\ContentInfoGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ContentInfoGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\ContentInfoGenerator\Conte
+    ntPackageExport
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Convert_HelpItemID_to_FilePath.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\ContentPackageGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ContentPackageGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\CSEHtmlValidator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              StartCSEHtmlValidator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\DataMappingGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DataMappingGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\HelpItemValidator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              HelpItemValidator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\HelpLinkValidator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              HelpLinkValidator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\HelpLinkValidator\Perl
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              GenerateFileIndexMapping.exe
+                                          NotSigned                              HelpLinkValidator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\InternationalFiltering
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              InternationalFiltering.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\OcdVersionGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OcdVersionGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\Others
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Convert_HelpItemID_to_FilePath.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\SearchRelatedTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AWFileListGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\SearchRelatedTools\SPCSear
+    ch\BuilderIndexer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BuildIndexer.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\SearchRelatedTools\SPCSear
+    ch\SearchOptimizer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SearchOptimizer.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\Unzip
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Unzip.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\VersionFileGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VersionFileGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Bin\ZipPackageGenerator
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ZipPackageGenerator.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Help\CommonTools\Source\InternationalFiltering
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              InternationalFiltering.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\GoogleAPI\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              gdpconsole.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Sybase\Sybase11\win32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  HashMismatch                           dbextclr11.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  dbfhide.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  dblog.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  dbmlsync.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  dbping.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  dbstop.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  QBDBMgr.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  QBDBMgrN.exe
+F949BF980247D636BCD0FD845F2CE9C9B74532C7  Valid                                  sqlpp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Sybase\Sybase16\win32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbextclr16.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbfhide.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dblog.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbmlsync.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbping.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbstop.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  QBDBMgr.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  QBDBMgrN.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  sqlpp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Sybase\Sybase17\win32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbextclr17.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbextclr17_v4.5.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbfhide.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dblog.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbmlsync.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbping.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbstop.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  QBDBMgr.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  QBDBMgrN.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  sqlpp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Sybase\Sybase9\win32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbfhide.exe
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbisql.exe
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dblog.exe
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbstop.exe
+                                          NotSigned                              QBDBMgr9.exe
+                                          NotSigned                              QBDBMgrN.exe
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  sqlpp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30700_r22\exe\SWFStudio
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CCPK Trial.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30706_r22\source\exe\Manifest
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  launch.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30706_r22\source\exe\SWF
+    Studio
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              qbestrial.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30745_r17\exe\HotBasic
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Trial.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30745_r17\exe\SWFStudio
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              POS Trial Post Install.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30758_r9\exe\manifest
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              imtrial.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\Packages\Trial_Source\30758_r9\exe\SWF Studio
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              imtrial.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Automation\QBAutomationBridge\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent-x86.exe
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit3-console.exe
+                                          NotSigned                              ReportUnit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\AuthFileGen\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AuthFileGen.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\AuthFileMerger\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AuthFilesMerger.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\Bedrock
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Encrypter.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ConnectedServicesProtocolHandl
+    er\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  ConnectedServicesProtocolHandler.exe
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  PHConfigMgr.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ConnectedServicesProtocolHandl
+    er\bin\Debug\Sybase10
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbmlsync.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ConnectedServicesProtocolHandl
+    er\bin\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  ConnectedServicesProtocolHandler.exe
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  PHConfigMgr.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ConnectedServicesProtocolHandl
+    er\bin\Release\Sybase10
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbmlsync.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\FCS\Bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Intuit.QuickBooks.FCS.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\FCS\Bin\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Intuit.QuickBooks.FCS.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\FCS\TestCode\AuthFileTestTool\Bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AuthFileTestTool.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\HelpSystem\Source\HelpSupportFiles\NUnit
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-gui.exe
+                                          NotSigned                              nunit-server.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\IntuitSyncManager\bin\BuildWit
+    hObfuscation
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  IntuitSyncManager.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\IntuitSyncManager\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  IntuitSyncManager.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\IntuitSyncManager\Sybase10
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+6BBA541CEDA406248423AA5B636DA84E20FE94D7  Valid                                  dbmlsync.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ISW\InstallationFiles\Binaries
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          UnknownError                           ISWConvert.exe
+                                          UnknownError                           ISWExtract.exe
+2C49315734F33564507ABCE3F95562F9A8605C11  Valid                                  StatementWriter.exe
+                                          NotSigned                              UpdateManager.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\OnlineBackup\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  IBuEngHost.exe
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  IntuitDataProtect.exe
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  QBIDPService.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\OnlineBackup\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DE9945DCA2CE0A077BF87B59CCC1AD96FA24A70C  Valid                                  IBuEngHost.exe
+DE9945DCA2CE0A077BF87B59CCC1AD96FA24A70C  Valid                                  IntuitDataProtect.exe
+                                          NotSigned                              QBIDPService.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QBFRAM\QbFram_Installer\sdk
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DocCompiler.exe
+                                          NotSigned                              MakeSfxCA.exe
+                                          NotSigned                              MsgGen.exe
+                                          NotSigned                              XsdStitch.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QBFRAM\QbFram_Installer\wix_5217
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              candle.exe
+                                          NotSigned                              ct.exe
+                                          NotSigned                              ctui.exe
+                                          NotSigned                              dark.exe
+                                          NotSigned                              heat.exe
+                                          NotSigned                              light.exe
+                                          NotSigned                              lit.exe
+                                          NotSigned                              melt.exe
+                                          NotSigned                              pyro.exe
+                                          NotSigned                              setup.exe
+                                          NotSigned                              setupbld.exe
+                                          NotSigned                              smoke.exe
+                                          NotSigned                              torch.exe
+                                          NotSigned                              WixCop.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QBGDSPlugin\assemblies
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              dbisql.exe
+                                          NotSigned                              dbstop.exe
+                                          NotSigned                              sqlpp.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QBGDSPlugin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Encrypter.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QBReplay\QBReplaySetUp
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QuickBooks_Replay_Setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\QFM
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+1911E8591B193B5AAE61DB8E523DFBFFEC76F75B  Valid                                  QuickBooksFileManager.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\CompanionApps\ReportCenterSecureXML\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ReportCenterSecureXML.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\AUTORUN
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              autorun_BEL.exe
+                                          NotSigned                              Autorun_STD.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\InstallManager
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AutoStartSetup.exe
+                                          NotSigned                              QBCA64.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\Core\Setup
+    Files\Compressed Files\0009-English\Intel 32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              RemoveQBApp.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\Core\Setup
+    Files\Compressed Files\0009-English\OS Independent
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FlashPremier.exe
+                                          NotSigned                              FlashPremierConvertible.exe
+                                          NotSigned                              FlashPremierConvertible5.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\Core\Setup
+    Files\Compressed Files\Language Independent\Intel 32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDTInst.exe
+                                          NotSigned                              QBReplace.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\Core\Setup
+    Files\Compressed Files\Language Independent\OS Independent
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              setup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\Flavor\Setup
+    Files\Compressed Files\Language Independent\Intel 32
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBReplace.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\la
+    yout\cddemos
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+DB29AC6A7BB5D44BC0D88564D86F09A861E04929  Valid                                  askforcd.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\la
+    yout\intl\ca\PayBootInst\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+9BE6C6E7684F2C379E008826E16154FA58F21C62  Valid                                  Payroll.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\layout
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  launch_MyCD.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\layout\msaa
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              setup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\layout\MyCD
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  Setup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\layout
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+2C49315734F33564507ABCE3F95562F9A8605C11  Valid                                  setup_MasNeutron.exe
+2C49315734F33564507ABCE3F95562F9A8605C11  Valid                                  setup_Neutron.exe
+                                          NotSigned                              shortcut.exe
+                                          NotSigned                              try_qb.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\QB
+    DTInst\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDTInst.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\ishield6\QB
+    Replace\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBReplace.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\Autoru
+    n\Enterprise
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  Setup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\Autorun\SetupShim
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  SETUPa.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  SETUPa_BEL.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  SETUPb.exe
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  SETUPb_BEL.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\Autorun\Standard
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  Setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\Framew
+    ork\SlfHealingFramework\demo
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\Protot
+    ype\SourceFiles
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              myNotePad.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\QuickB
+    ooks\CustomActions
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBCA64.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\SupportFiles
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDBSvrPrep.exe
+                                          NotSigned                              QBDBSvrPrepUI.exe
+                                          NotSigned                              QBDTInst.exe
+                                          NotSigned                              Setup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC10Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+AB18CB55D01F630510117B42713A26854AFCA985  Valid                                  QBVCRedist64.exe
+AB18CB55D01F630510117B42713A26854AFCA985  Valid                                  VC10RedistX86.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC12Redist\debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VC12X86Redist_db.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC12Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+67B1757863E3EFF760EA9EBB02849AF07D3A8080  Valid                                  vcredist_x64.exe
+67B1757863E3EFF760EA9EBB02849AF07D3A8080  Valid                                  vcredist_x86.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC14Redist\debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VC14X86Redist_db.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC14Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3BDA323E552DB1FDE5F4FBEE75D6D5B2B187EEDC  Valid                                  vc_redist.x64.exe
+3BDA323E552DB1FDE5F4FBEE75D6D5B2B187EEDC  Valid                                  vc_redist.x86.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC14_1Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+98ED99A67886D020C564923B7DF25E9AC019DF26  Valid                                  vc_redist.x64.exe
+98ED99A67886D020C564923B7DF25E9AC019DF26  Valid                                  vc_redist.x86.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC8Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBVC8Redist.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\MSI2\VC9Redist
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              vcredist_x86.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\InstallSource\PINPadDrive
+    rIntaller\K23PINPad\Media\CDROM_IMAGE\Disk Images\Disk1
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\QBSystemSwitch\QBLauncher
+    \QBLauncher\NUnit\Net 4.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent-x86.exe
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit-console-x86.exe
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-editor.exe
+                                          NotSigned                              nunit-x86.exe
+                                          NotSigned                              nunit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\QBSystemSwitch\QBLauncher
+    \QBLauncher\NUnit\Net2.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-gui.exe
+                                          NotSigned                              nunit-server.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\QBSystemSwitch\QBMigrator
+    \QBMigrator\NUnit\Net 4.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent-x86.exe
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit-console-x86.exe
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-editor.exe
+                                          NotSigned                              nunit-x86.exe
+                                          NotSigned                              nunit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Deployment\Install\QBSystemSwitch\QBMigrator
+    \QBMigrator\NUnit\Net2.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-gui.exe
+                                          NotSigned                              nunit-server.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\CRM\RUN
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              support.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\CRM\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              stripmap.exe
+                                          NotSigned                              TableCompile.exe
+                                          NotSigned                              TableConvert.exe
+                                          NotSigned                              tableconvert3.exe
+                                          NotSigned                              TableCopy.exe
+                                          NotSigned                              TableDump.exe
+                                          NotSigned                              tabledump3.exe
+                                          NotSigned                              TableEditor.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Payroll\payroll_temp\SETUP
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  qbpayrollsetup.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Payroll\Rti\Rti.Tests\NUnit\bin\net-1.1
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              pnunit-agent.exe
+                                          NotSigned                              pnunit-launcher.exe
+                                          NotSigned                              runFile.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Payroll\Rti\Rti.Tests\NUnit\bin\net-2.0
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent-x86.exe
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit-console-x86.exe
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-x86.exe
+                                          NotSigned                              nunit.exe
+                                          NotSigned                              pnunit-agent.exe
+                                          NotSigned                              pnunit-launcher.exe
+                                          NotSigned                              runFile.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Payroll\XLPayroll
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBXL64Connect.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\QBAdvWarehouseManager\.nuget
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+98ED99A67886D020C564923B7DF25E9AC019DF26  Valid                                  NuGet.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\QBMapi64\bin\x64Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  QBMapi64.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\QBMapi64\bin\x64Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+3825FCAE0539CCA60CECD743C5B1326528A052F3  Valid                                  QBMapi64.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\QBSetUp\Resources\ThirdParty
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              regtlib.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Validation\ThirdParty\Mvp.Xml\Attic
+    \MvpXmlLibrary\EXSLT\v2\src\Exslt
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MethodRenamer.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Validation\ThirdParty\Mvp.Xml\Attic
+    \MvpXmlLibrary\EXSLT\v2\src\MethodRenamer
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MethodRenamer.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Features\Validation\ThirdParty\Mvp.Xml\Attic
+    \MvpXmlLibrary\Global\v2
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MethodRenamer.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\ApplicationContainer\Entitlement\LS
+    R\QBLicense\Handshaker\Tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EntitlementClientFileUtility.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\ApplicationContainer\MarketingSuppo
+    rt\Tracking\Tracking\tools\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DecryptTracking.exe
+                                          NotSigned                              EncryptTracking.exe
+                                          NotSigned                              LogDecoder.exe
+                                          NotSigned                              MsgDBIDGen.exe
+                                          NotSigned                              SyncDecodemap.exe
+                                          NotSigned                              TISpy.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\BizObjectClientAPI\IdnSdk\SdkGlue\B
+    opSdkRequestProcessor
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Encrypter.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\BizObjectClientAPI\IdnSdk\test\Even
+    tTest\EventTestOutOfProcVB
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              eventtestoutofprocvb.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Data\Helper\FileMovementExe\debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              filemovementexe.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Data\Schema\PowerDesigner\PDM\QBAR\
+    _XSLT_Transform\v1\main
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              sdktest.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\ETL\QBExcelAdaptor\QBExcelAdaptor\bin\x64Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBExcelAdaptor_64bit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\ETL\QBExcelAdaptor\QBExcelAdaptor\b
+    in\x64Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBExcelAdaptor_64bit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Online\OLBUICustomControlLibrary\Wi
+    ndowsApplication1\Setup1\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              setup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Online\OLBUICustomControlLibrary\Wi
+    ndowsApplication1\WindowsApplication1\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WindowsApplication1.exe
+3BDA323E552DB1FDE5F4FBEE75D6D5B2B187EEDC  Valid                                  WindowsApplication1.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Online\OLBUICustomControlLibrary\Wi
+    ndowsApplication1\WindowsApplication1\bin\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WindowsApplication1.exe
+                                          NotSigned                              WindowsApplication1.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Online\OLBUICustomControlLibrary\Wi
+    ndowsApplication1\WindowsApplication1\obj\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WindowsApplication1.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Online\OLBUICustomControlLibrary\Wi
+    ndowsApplication1\WindowsApplication1\obj\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WindowsApplication1.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\Platform\Reporting\ScheduledReports\Schedule
+    r\Scheduler\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  Scheduler.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\sdkscripts\TxnListSilkScripts
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKTest.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\Accountant\ClientDataReview
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              sdktest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\AddressSchema
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AddressSchematization.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\EnterpriseSolution
+    s\testflagauth
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              testflagauth.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\Install\SHA2
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+AC1FD0922A4A2A6E5779ACDD628747C28394B0B9  Valid                                  sigcheck.exe
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  signtool.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\Multiuser\MU_Regre
+    ssion\MUResults
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MUResults.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\Multiuser\MU_Regre
+    ssion\MUSchedular
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MUSchedular.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\QBFeatures\CustomerCenter
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ExcelFunction.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\QBFeatures\VendorCenter
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ExcelFunction.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\silkscripts\TxnListSilkScripts
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\Tests\GUI\Bin\HANDSHAKE
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              GenTests.exe
+                                          NotSigned                              Handshaker.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\APIHarness
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DLLHarness.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\BusinessObjectProviderTools\BopTest
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\BusinessObjectProviderTo
+    ols\BopXmlCompare
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopXmlCompare.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\BusinessObjectProviderTo
+    ols\BopXmlDiff
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopXmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\dataFileUpdate
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BatchUpdateVB.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\fitnesse\dotnet
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FitServer.exe
+                                          NotSigned                              TestRunner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\fitnesse\FitNesseRoot\fi
+    les\Net20\FitFdn
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FitServer.exe
+                                          NotSigned                              TestRunner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\perfharness
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              PerformanceBats.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              pkzip25.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\RegionalSetting
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              regionalSetting.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              RegisterQB.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools\SDKPerfMonitor
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKPerfMonitor71.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WinXmlDiff.exe
+                                          NotSigned                              XmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\ExtensionKit
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBExternalExtension.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\sdkscripts\TxnListSilkScripts
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\Accountant\Cl
+    ientDataReview
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              sdktest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\AddressSchema
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              AddressSchematization.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\EnterpriseSol
+    utions\testflagauth
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              testflagauth.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\Install\PFTW\BATFiles
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              simpledownloader.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\Install\SHA2
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+AC1FD0922A4A2A6E5779ACDD628747C28394B0B9  Valid                                  sigcheck.exe
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  signtool.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\Multiuser\MU_
+    Regression\MUResults
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MUResults.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\Multiuser\MU_
+    Regression\MUSchedular
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              MUSchedular.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\QBFeatures\Cu
+    stomerCenter
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ExcelFunction.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\QBFeatures\VendorCenter
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ExcelFunction.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\silkscripts\TxnListSilkScripts
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\APIHarness
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DLLHarness.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\BusinessObjectProvi
+    derTools\BopTest
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\BusinessObjectProvi
+    derTools\BopXmlCompare
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopXmlCompare.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\BusinessObjectProvi
+    derTools\BopXmlDiff
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BopXmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\dataFileUpdate
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BatchUpdateVB.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\fitnesse\dotnet
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FitServer.exe
+                                          NotSigned                              TestRunner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\fitnesse\FitNesseRo
+    ot\files\Net20\FitFdn
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              FitServer.exe
+                                          NotSigned                              TestRunner.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\perfharness
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              PerformanceBats.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              pkzip25.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\RegionalSetting
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              regionalSetting.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              RegisterQB.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools\SDKPerfMonitor
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              SDKPerfMonitor71.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\QB\QA\QBDT_Automation\tools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              WinXmlDiff.exe
+                                          NotSigned                              XmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Deployment\Delivery\QBAgent\Agent\Marimba
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              mrtMngr.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Deployment\Delivery\QBAgent\QuickbooksAgent
+    UpdateIS\Media\Test\Disk Images\disk1
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDAgentUpdate.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Deployment\Delivery\QBAgent\QuickbooksAgent
+    UpdateIS\Media\UpdateChannel\Disk Images\disk1
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDAgentUpdate.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Deployment\Delivery\QBAgent\QuickbooksAgent
+    UpdateIS\Setup Files\Uncompressed Files\Disk1
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              QBDAgentUpdate.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Platform\SPC\InternetClient\IClient\auxfiles
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+B5202EE851DFC01AD20AFF1EE285D37D0F761793  Valid                                  Assist.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Platform\SPC\InternetClient\IClient\Install
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ICUpdate.exe
+                                          NotSigned                              Intuit_Internet_Client_SDK.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\source\SBD\Platform\Utilities\DataProtection\DataSecur
+    ity\TestCode\DataSecurity_API_Test\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              DataSecurityTest.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\Coverity
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              cov-analyze-parallel.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              a2u.exe
+                                          NotSigned                              Abc.exe
+                                          NotSigned                              AppBuilder.exe
+                                          NotSigned                              AppBuilderCLI.exe
+                                          NotSigned                              ApplyXSLT.exe
+                                          NotSigned                              autoduck.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\QBSybaseUpgrade\QBSybaseUpgr
+    ade\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  QBSybaseUpgrade.vshost.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\SybasePerformanceAutomation\SA16
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbeng16.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbsrv16.exe
+FFC2CC0605FCBDC1424EAAADAA2D3873EEDF412F  Valid                                  dbstop.exe
+                                          NotSigned                              fetchtst.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\SybasePerformanceAutomation\SA17
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbeng17.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbsrv17.exe
+D8EE945D01EA8443ABF3093A1C764192BF0BDE0C  Valid                                  dbstop.exe
+                                          NotSigned                              fetchtst.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\Versionup\bin\Debug\DEMO
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VerisonupSampleComp.exe
+                                          NotSigned                              VersionupUI.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\Versionup\bin\Debug\not
+    needed
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              p4ConfigCreate.exe
+                                          NotSigned                              VerisonupSampleComp.exe
+                                          NotSigned                              Versionup.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\Versionup\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VersionupUI.exe
+108E2BA23632620C427C570B6D9DB51AC31387FE  Valid                                  VersionupUI.vshost.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\Automation\Versionup\obj\x86\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              VersionupUI.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              autoreg12.exe
+                                          NotSigned                              autoreg6.exe
+                                          NotSigned                              autoreg8.exe
+                                          NotSigned                              autoreg9.exe
+                                          NotSigned                              autoregPPRA.exe
+                                          NotSigned                              bd.exe
+                                          NotSigned                              BuildManifest.exe
+                                          NotSigned                              cat.exe
+                                          NotSigned                              changesku.exe
+                                          NotSigned                              changeskuPPRA.exe
+                                          UnknownError                           cidump.exe
+                                          NotSigned                              cidump20.exe
+                                          NotSigned                              cidumpw.exe
+                                          NotSigned                              cin_modtweak.exe
+                                          NotSigned                              Class2XML.exe
+                                          NotSigned                              cmp.exe
+                                          NotSigned                              CodeCop.exe
+                                          NotSigned                              CompareProperty.exe
+                                          NotSigned                              CompFTim.exe
+                                          NotSigned                              CompileDirs.exe
+                                          NotSigned                              CompileTaxLineForm.exe
+                                          NotSigned                              console_test_runner.exe
+                                          UnknownError                           cpp.exe
+                                          NotSigned                              cpp32.exe
+                                          NotSigned                              cpyadr.exe
+                                          NotSigned                              cpyenumsintl.exe
+                                          NotSigned                              cpyqbot.exe
+                                          NotSigned                              cpyresintl.exe
+                                          NotSigned                              cpyxmf.exe
+                                          NotSigned                              cpyxml.exe
+                                          NotSigned                              CreateDBRecordInQB.exe
+                                          NotSigned                              createdir.exe
+                                          NotSigned                              createdirsemaphore.exe
+                                          NotSigned                              CreateMcMakefile.exe
+                                          NotSigned                              CreateProject.exe
+                                          NotSigned                              CreateSolution.exe
+                                          UnknownError                           debugobj.exe
+                                          NotSigned                              dffilter.exe
+                                          NotSigned                              DLLHarness.DB.exe
+                                          NotSigned                              DLLHarness.exe
+                                          NotSigned                              DllHarness.NB.exe
+                                          NotSigned                              dllrpt.exe
+                                          NotSigned                              dobjs.exe
+                                          NotSigned                              dozip.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\EnableMAPI
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EnableMAPI.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\EnableMAPI\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EnableMAPI.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              enumfltr.exe
+                                          NotSigned                              errfix.exe
+                                          NotSigned                              err_filt.exe
+                                          NotSigned                              FileEncodingConverter.exe
+                                          NotSigned                              FilesToBuild.exe
+                                          NotSigned                              FixBSC.exe
+                                          UnknownError                           fixcpp.exe
+                                          NotSigned                              fmdcmp.exe
+                                          NotSigned                              GenComponentXML.exe
+                                          NotSigned                              GenDepsCS.exe
+                                          NotSigned                              GenerateModuleCodeID.exe
+                                          NotSigned                              GenerateQBCommandRegistrationTable.exe
+                                          NotSigned                              GenQBCoffbase.exe
+1911E8591B193B5AAE61DB8E523DFBFFEC76F75B  Valid                                  GenSKUDefHash.exe
+                                          NotSigned                              getdobjs.exe
+                                          NotSigned                              GetECloudID.exe
+                                          NotSigned                              GlobalFuncs2ClassXML.exe
+                                          NotSigned                              gmakeWrapper.exe
+                                          NotSigned                              H2Reg.exe
+                                          NotSigned                              idlfutz.exe
+                                          NotSigned                              IncrementCSProjFileVersionBuildNumb...
+                                          NotSigned                              inkeys.exe
+                                          NotSigned                              inmd.exe
+                                          NotSigned                              IntlSchemaMerge.exe
+                                          NotSigned                              inupcase.exe
+                                          NotSigned                              List2Lines.exe
+                                          UnknownError                           makedef.exe
+                                          NotSigned                              makedep.exe
+                                          UnknownError                           makeimp.exe
+                                          NotSigned                              MakeProjectCS.exe
+                                          NotSigned                              maketypelibreg.exe
+                                          NotSigned                              markdep.exe
+                                          NotSigned                              mc2xml.exe
+                                          NotSigned                              md2htmlc.exe
+                                          NotSigned                              MergeOutFiles.exe
+                                          UnknownError                           mkdef.exe
+                                          NotSigned                              mksfind.exe
+                                          NotSigned                              mkssort.exe
+                                          NotSigned                              mkstr.exe
+90C22DB300F44EC79BEAB4662BB77ED1E81843BC  Valid                                  msxsl.exe
+                                          NotSigned                              msystime.exe
+                                          NotSigned                              msys_vc.exe
+                                          NotSigned                              mv.exe
+                                          NotSigned                              m_vc.exe
+                                          NotSigned                              npmeter.exe
+                                          NotSigned                              numacroinstall.exe
+                                          NotSigned                              OutputLogParser.exe
+                                          NotSigned                              P4BackupCS.exe
+                                          NotSigned                              payrollUpdate.exe
+                                          NotSigned                              PDBTool.exe
+                                          NotSigned                              pkzip25.exe
+                                          NotSigned                              psfix.exe
+                                          NotSigned                              qbaddin.exe
+                                          NotSigned                              qbchecksum.exe
+                                          NotSigned                              QBEncrypt.exe
+                                          NotSigned                              qbrbase.exe
+                                          NotSigned                              QBTrans.exe
+                                          NotSigned                              QBVCCommand.exe
+                                          NotSigned                              readdep.exe
+                                          UnknownError                           readdif.exe
+                                          UnknownError                           readexp.exe
+                                          UnknownError                           readlib.exe
+                                          NotSigned                              regdoxygen.exe
+                                          NotSigned                              RegexEvaluator.exe
+                                          NotSigned                              regexstr.exe
+                                          NotSigned                              ResetMsysLogs.exe
+                                          NotSigned                              rm.exe
+                                          UnknownError                           rtm.exe
+                                          NotSigned                              runwait.exe
+                                          NotSigned                              rx.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools\RxEditor
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              rxedit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\DevTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              sb2.exe
+                                          NotSigned                              sc.exe
+                                          NotSigned                              scanwarn.exe
+                                          NotSigned                              SchemaGen.exe
+                                          NotSigned                              setenvlbl.exe
+                                          NotSigned                              ShowApiResults.exe
+                                          NotSigned                              SQCPreprocessor_intl.exe
+                                          NotSigned                              sqzbmp.exe
+                                          NotSigned                              StrTool.exe
+                                          NotSigned                              TokenSub.exe
+                                          NotSigned                              touch.exe
+                                          NotSigned                              tweakdsw.exe
+                                          NotSigned                              UpdateProject.exe
+                                          NotSigned                              up_cisys.exe
+                                          NotSigned                              uttc_gen.exe
+                                          NotSigned                              vcm_syntaxcheckfilter.exe
+                                          NotSigned                              VerifyResourceLocation.exe
+                                          NotSigned                              which.exe
+                                          NotSigned                              WriteADR.exe
+                                          NotSigned                              xgrep.exe
+                                          NotSigned                              XmlEnumTranslator.exe
+                                          NotSigned                              XSDGen.exe
+                                          NotSigned                              xsort.exe
+                                          NotSigned                              ZlibTool.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\NetTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BuildStatusEmail.exe
+                                          NotSigned                              cat.exe
+                                          NotSigned                              cdicolon.exe
+                                          NotSigned                              checksf.exe
+                                          UnknownError                           chkdotx.exe
+                                          NotSigned                              ChkDskSpc.exe
+                                          NotSigned                              choic.exe
+                                          NotSigned                              cmp.exe
+                                          NotSigned                              create_envinit.exe
+                                          NotSigned                              datemsg.exe
+                                          NotSigned                              decrement.exe
+                                          NotSigned                              doprebuilt.exe
+                                          NotSigned                              fexist.exe
+                                          NotSigned                              grep.exe
+                                          NotSigned                              help.exe
+                                          NotSigned                              IncBldEmail.exe
+                                          NotSigned                              inkeys.exe
+                                          NotSigned                              inmd.exe
+                                          NotSigned                              inupcase.exe
+                                          UnknownError                           isfile.exe
+                                          NotSigned                              linetail.exe
+                                          NotSigned                              mailto.exe
+                                          NotSigned                              mksdate.exe
+                                          NotSigned                              mkstr.exe
+                                          NotSigned                              multici2.exe
+                                          NotSigned                              p4setup.exe
+                                          NotSigned                              perl.exe
+                                          NotSigned                              ResetRevEnvVars.exe
+                                          NotSigned                              rupsys.exe
+                                          UnknownError                           scanrx.exe
+                                          NotSigned                              SCMRegedit.exe
+                                          NotSigned                              SCMSendMail.exe
+                                          NotSigned                              setdow.exe
+                                          NotSigned                              showfiles.exe
+                                          NotSigned                              stamp.exe
+                                          NotSigned                              stampcmd.exe
+                                          NotSigned                              SyntaxBldEmail.exe
+                                          NotSigned                              touch.exe
+                                          NotSigned                              upqbchan.exe
+                                          NotSigned                              upsysgit.exe
+                                          NotSigned                              upsysp4.exe
+                                          NotSigned                              which.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              BATSByDay.exe
+                                          NotSigned                              batsignal.exe
+                                          NotSigned                              CheckBldNum.exe
+                                          NotSigned                              checkfgl.exe
+                                          NotSigned                              CheckProductType.exe
+                                          NotSigned                              chk_setuplog.exe
+                                          UnknownError                           comp.exe
+                                          NotSigned                              CompareChkSum.exe
+                                          NotSigned                              ConIntegTool.exe
+                                          NotSigned                              createfgl.exe
+                                          NotSigned                              CreateMSIIni.exe
+                                          NotSigned                              CreateMSISetupIni.exe
+                                          NotSigned                              createsrc.exe
+                                          NotSigned                              custom_install.exe
+                                          NotSigned                              dbupdqbzip.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools\DLM
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              Packager.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools\EclipseSuite\cmdLineDriver\binary
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EclipseCmdLine.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools\EclipseSuite\cmdLineDriver\code\bin\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EclipseCmdLine.exe
+                                          NotSigned                              EclipseCmdLine.vshost.exe
+
+
+    Directory:
+    C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools\EclipseSuite\cmdLineDriver\code\obj\Release
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              EclipseCmdLine.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools\EclipseSuite\SuiteInstall\es52
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              CreateUser.exe
+                                          NotSigned                              ICheck.exe
+                                          NotSigned                              ImageAnalysis.exe
+                                          NotSigned                              ImageCopy.exe
+                                          NotSigned                              ImageVerify.exe
+                                          NotSigned                              osver.exe
+                                          UnknownError                           Setupx86.exe
+                                          UnknownError                           SSD5411-32bit.exe
+                                          NotSigned                              TapeCopy.exe
+                                          NotSigned                              TapeDir.exe
+                                          NotSigned                              XAtoM1.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\SCMTools
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              fcomp.exe
+                                          NotSigned                              FilterISMProj.exe
+                                          NotSigned                              GetCheckSum.exe
+                                          NotSigned                              GetP4Counter.exe
+                                          NotSigned                              GetP4EndPoints.exe
+                                          NotSigned                              GetP4SyncSet.exe
+                                          NotSigned                              GetPromoData.exe
+                                          NotSigned                              helpdeco.exe
+                                          NotSigned                              howdoih.exe
+                                          NotSigned                              inc.exe
+                                          NotSigned                              incbldnum.exe
+                                          NotSigned                              inupcase.exe
+                                          NotSigned                              make_hdi_rx.exe
+                                          NotSigned                              NGenFileIdentifier.exe
+                                          NotSigned                              openedfiles.exe
+                                          NotSigned                              P4ToolBox.exe
+                                          NotSigned                              parsehdi.exe
+                                          NotSigned                              parsehdixml.exe
+                                          NotSigned                              parse_is_rpt.exe
+                                          NotSigned                              pdbstr.exe
+                                          UnknownError                           Pkunzip.exe
+                                          UnknownError                           pkzip.exe
+                                          NotSigned                              PromoStatus.exe
+                                          NotSigned                              Promote.exe
+                                          NotSigned                              qbfcomp.exe
+                                          NotSigned                              qsubmit.exe
+                                          NotSigned                              qsubmit2.exe
+                                          NotSigned                              QuickBooksBuildManager.exe
+                                          NotSigned                              retrieve_fn.exe
+                                          NotSigned                              retrieve_msi_file_info.exe
+                                          NotSigned                              schdbuild.exe
+                                          NotSigned                              scopusrel.exe
+                                          NotSigned                              SendCRCEmail.exe
+                                          NotSigned                              setdow.exe
+                                          NotSigned                              ShowDLLVersion.exe
+                                          NotSigned                              SKUCustomize.exe
+                                          NotSigned                              srctool.exe
+                                          NotSigned                              testfgl_improv.exe
+                                          NotSigned                              upd.exe
+                                          NotSigned                              UpdateOESetupIni.exe
+                                          NotSigned                              upd_scopusrel.exe
+                                          NotSigned                              verifybom.exe
+                                          NotSigned                              verifyfgl.exe
+                                          NotSigned                              VerifyInst.exe
+                                          UnknownError                           zip2exe.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\MSXMLDiff\Bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              XmlDiff.exe
+                                          NotSigned                              XmlPatch.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\MSXMLDiff\Samples\XmlDiff\bin\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              XmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\MSXMLDiff\Samples\XmlDiff\obj\Debug
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              XmlDiff.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\MSXMLDiff
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              xmldiffpatch.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\NUnit\Net 4.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-agent-x86.exe
+                                          NotSigned                              nunit-agent.exe
+                                          NotSigned                              nunit-console-x86.exe
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-editor.exe
+                                          NotSigned                              nunit-x86.exe
+                                          NotSigned                              nunit.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\NUnit\Net2.0\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              nunit-console.exe
+                                          NotSigned                              nunit-gui.exe
+                                          NotSigned                              nunit-server.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\OpenCover
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OpenCover.Console.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\OpenCover\Samples\x64
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OpenCover.Simple.Target.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\OpenCover\Samples\x86
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OpenCover.Simple.Target.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\OpenCppCoverage
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              OpenCppCoverage.exe
+                                          NotSigned                              template_test_util_test.exe
+                                          NotSigned                              unins000.exe
+
+
+    Directory: C:\Users\sbehra1\Downloads\QBDT-Core-ZincFeatures\Tools\ThirdParty\ReportGen\bin
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+                                          NotSigned                              ReportGenerator.exe
